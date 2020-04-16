@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: dotnetworld
-        image: karthequian/dotnetexample:latest
+        image: selenehsong/dotnetexample:latest
         ports:
         - containerPort: 80
 ---
